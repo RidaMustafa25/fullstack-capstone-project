@@ -1,0 +1,18 @@
+[
+    { "id": "1", "name": "Wooden Chair", "category": "Furniture", "condition": "Good", "description": "A sturdy wooden chair." },
+    { "id": "2", "name": "Desk Lamp", "category": "Electronics", "condition": "Like New", "description": "LED desk lamp with adjustable brightness." },
+    { "id": "3", "name": "Winter Coat", "category": "Clothing", "condition": "Good", "description": "Warm winter coat, size M." },
+    { "id": "4", "name": "Blender", "category": "Kitchen", "condition": "Fair", "description": "Working kitchen blender." },
+    { "id": "5", "name": "Python Programming Book", "category": "Books", "condition": "Good", "description": "Introductory programming book." },
+    { "id": "6", "name": "Coffee Maker", "category": "Kitchen", "condition": "Good", "description": "Drip coffee maker." },
+    { "id": "7", "name": "Mountain Bike", "category": "Sports", "condition": "Fair", "description": "Needs minor tire repair." },
+    { "id": "8", "name": "Acoustic Guitar", "category": "Music", "condition": "Good", "description": "Includes a soft case." },
+    { "id": "9", "name": "Yoga Mat", "category": "Sports", "condition": "Like New", "description": "Non-slip yoga mat." },
+    { "id": "10", "name": "Toaster", "category": "Kitchen", "condition": "Good", "description": "Two-slice toaster." },
+    { "id": "11", "name": "Standing Fan", "category": "Electronics", "condition": "Good", "description": "Three-speed oscillating fan." },
+    { "id": "12", "name": "Backpack", "category": "Travel", "condition": "Good", "description": "Durable school/travel backpack." },
+    { "id": "13", "name": "Board Game", "category": "Toys", "condition": "Like New", "description": "Family board game, complete pieces." },
+    { "id": "14", "name": "Potted Plant", "category": "Home", "condition": "Good", "description": "Indoor snake plant in a ceramic pot." },
+    { "id": "15", "name": "Curtains", "category": "Home", "condition": "Good", "description": "Set of blackout window curtains." },
+    { "id": "16", "name": "Baking Pan Set", "category": "Kitchen", "condition": "New", "description": "Non-stick metal baking pans." }
+  ]
